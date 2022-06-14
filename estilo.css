@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Smokum&display=swap');
+header{
+    background-image: linear-gradient(to right,#11038c36,#1b46a349) ;
+      border: 5px solid #0455BF;
+      padding: 5px;
+      margin-bottom: 10px;
+      border-radius: 15px;
+      text-align: center;
+    
+  }
+  header >h1{
+      background-color: #0455bf49;
+      border: 5px solid #0468BF;
+      padding: 5px;
+      margin-bottom: 10px;
+      border-radius: 15px;
+      text-align: center;
+      text-shadow: 7px 7px 7px #04d6e6;
+  }
+  nav > a{
+      background-image: linear-gradient(to right,#04C4D9,#0455BF) ;
+         color:#0a0f00bb;
+         border: 5px solid#0077d8;
+         text-align:center;
+         margin-right:25px;
+         margin-bottom: 5px;
+         border-radius: 10px;
+   }
+   section{
+      background-image: linear-gradient(to right,#0455BF,#04C4D9) ;
+      background-color:#0e70a8ec;
+      border: 5px dashed #257dcfb6;
+      margin-bottom: 5px;
+      border-radius: 10px;
+  }
+  body{
+      
+      background-image: url("imagens/fundocerto.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+
+  }
+  main{
+      background-color:#049DD9;
+      width: 800px;
+      margin: auto;
+      border-radius:10px;
+      padding: 15px;
+  }
+  h1{
+      color:#550704(112, 5, 5, 0.87);
+      background-color:#0455BF;
+      font-family: 'Smokum', cursive;
+      text-shadow: 7px 7px 7px #00f7ff;
+      font-size: 56pt;
+  }
+  h2{
+      color:rgb(0, 1, 2);
+      background-color:#0455bfef(0, 121, 121);   
+      font-family:'cursive','Metalia.ttf';
+      text-shadow: 6px 6px 6px #052fe9;
+      text-align: center;
+  } 
+  p{
+      text-align: justify;
+      font-family: 'Gothic', 'Hack-Bold.ttf';
+      color:#000701;
+  }
+  ul{
+      columns: 3 ;
+      list-style-type: circle;
+       
+      
+  }
+  footer p{
+      background-image: linear-gradient(to right,#04c4d95e, #0455bf5d) ;
+      background-color: #2e568b69;
+      border: 5px solid rgb(0, 94, 156) ;
+      padding: 5px;
+      margin-bottom: 5px;
+      border-radius: 15px;
+      text-align: center;
+      text-shadow: 2px 3px 2px #1F2326;
+      
+  }
+  td,th{
+      border: 3px solid rgb(0, 1, 7);
+      width: 150px;
+      }
+  table{
+      border-collapse: collapse;
+      text-align: center;
+      margin: auto;
+  }
+ 
+ 
+
+ 
